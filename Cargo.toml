@@ -8,3 +8,6 @@ anyhow = "1"
 solana-client = "3.0.2"
 solana-sdk = "3.0.0"
 solana-account-decoder = "3.0.2"
+dotenvy = "0.15"
+# Cargo.toml
+spl-token = "3"
