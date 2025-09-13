@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-solana-client = "2.3.8"
-solana-sdk = "2.3.8"
-solana-account-decoder = "2.3.8"
+solana-client = "3.0.1"
+solana-sdk = "3.0.0"
+solana-account-decoder = "3.0.1"
 tokio = { version = "1", features = ["full"] }
